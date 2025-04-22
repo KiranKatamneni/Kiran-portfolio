@@ -52,7 +52,7 @@ SKILLS:
      - skill: "IDEs: Visual Studio Code, Jupyter Notebook, PyCharm"
      - skill: "ML Algorithms: Linear Regression, Logistic Regression, Decision Trees, Random Forests, XGBoost, K-Means, SVM"
      - skill: "Deep Learning: ANN, CNN, LSTMs, Transformers (BERT, GPT), Hugging Face"
-     - skill:"Packages: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV"
+     - skill: "Packages: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV"
      - skill: "Cloud Technology: AWS (SageMaker, Lambda, S3), GCP (BigQuery, Vertex AI)"
      - skill: "Big Data & Data Engineering: Apache Spark, Databricks, Airflow"
      - skill: "MLOps & Model Deployment: Docker, Kubernetes, CI/CD Pipelines, FastAPI"
