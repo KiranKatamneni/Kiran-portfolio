@@ -33,6 +33,17 @@ EXPERIENCE:
         Created churn prediction models and improved retention strategies, leading to a 20% drop in churn. 
         Integrated MLOps workflows using Kubernetes and OpenCV for image-based analytics.
 
+LANGUAGES:
+  enabled: false
+  display_progress_bars: true
+  display_percentage_values: true
+  label: "Languages"
+  items:
+    - language: "Inglés"
+      proficiency: "60%"
+    - language: "Francés"
+      proficiency: "40%"
+      
 SKILLS:
   enabled: true
   label: "My Skills"
