@@ -69,3 +69,5 @@ TECHNOLOGIES:
       icon: "config/assets/icons/Kubernetes.svg"
     - title: "Power BI"
       icon: "config/assets/icons/power-bi.svg"
+    - title: "Snowflake"
+      icon: "config/assets/icons/snowflake.svg"
