@@ -3,7 +3,7 @@ HEADER:
 
 PROJECTS:
   - title: "Anime_Recommendation_MLOPS"
-    category: "Recommendation Systems"
+    category: "Data Science"
     image: "https://i.imgur.com/ANDVQ4o.png"
     url: "https://github.com/KiranKatamneni/Anime_Recommendation_MLOps"
 
@@ -13,7 +13,7 @@ PROJECTS:
     url: "https://github.com/KiranKatamneni/Gen-AI"
 
   - title: "Customer-Churn-Prediction"
-    category: "Deep Learning"
+    category: "Data Science"
     image: "https://imgur.com/7110Lj1.png"
     url: "https://github.com/KiranKatamneni/Customer-Churn-Prediction"
 
@@ -23,7 +23,7 @@ PROJECTS:
     url: "https://github.com/KiranKatamneni/Sales-Dasboard-Power-BI"
 
   - title: "Financial-Market-Forecasting"
-    category: "Deep Learning"
+    category: "Data Science"
     image: "https://imgur.com/kyHrBGk.png"
     url: "https://github.com/KiranKatamneni/Financial-Market-Forecasting"
 
