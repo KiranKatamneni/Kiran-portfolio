@@ -38,7 +38,7 @@ PROJECTS:
     url: "https://github.com/KiranKatamneni/Zomato-Restaurant-Data-Analysis-using-Streamlit"
 
   - title: "Netflix Dashboard"
-    category: "Data Visulaization"
+    category: "Data Visualization"
     image: "config/assets/projects/project-3.jpg"
     url: "https://public.tableau.com/app/profile/katamneni.kiran.kumar/viz/Netflix_16844275441000/Dashboard1"
 
