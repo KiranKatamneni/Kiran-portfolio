@@ -4,27 +4,27 @@ HEADER:
 PROJECTS:
   - title: "Anime_Recommendation_MLOPS"
     category: "Data Science"
-    image: "https://i.imgur.com/anime.png"
+    image: "config/assets/projects/anime.png"
     url: "https://github.com/KiranKatamneni/Anime_Recommendation_MLOps"
 
   - title: "Generative AI"
     category: "Generative AI"
-    image: "https://imgur.com/AI.jpg"
+    image: "config/assets/projects/AI.jpg"
     url: "https://github.com/KiranKatamneni/Gen-AI"
 
   - title: "Customer-Churn-Prediction"
     category: "Data Science"
-    image: "https://imgur.com/churn.png"
+    image: "config/assets/projects/churn.png"
     url: "https://github.com/KiranKatamneni/Customer-Churn-Prediction"
 
   - title: "Sales-Dasboard-Power-BI"
     category: "PowerBI Dashboard"
-    image: "https://imgur.com/Sales.png"
+    image: "config/assets/projects/Sales.png"
     url: "https://github.com/KiranKatamneni/Sales-Dasboard-Power-BI"
 
   - title: "Financial-Market-Forecasting"
     category: "Data Science"
-    image: "https://imgur.com/forecasting.jpeg"
+    image: "config/assets/projects/forecasting.jpeg"
     url: "https://github.com/KiranKatamneni/Financial-Market-Forecasting"
 
   - title: "AI Story Teller"
