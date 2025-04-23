@@ -29,7 +29,7 @@ PROJECTS:
 
   - title: "AI Story Teller"
     category: "Generative AI"
-    image: "config/assets/projects/Storyy_teller.png"
+    image: "config/assets/projects/Story_teller.png"
     url: "https://github.com/KiranKatamneni/Capstone"
 
   - title: "Restaurant Data Analysis"
