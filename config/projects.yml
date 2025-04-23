@@ -4,32 +4,32 @@ HEADER:
 PROJECTS:
   - title: "Anime_Recommendation_MLOPS"
     category: "Data Science"
-    image: "https://i.imgur.com/ANDVQ4o.png"
+    image: "https://i.imgur.com/anime.png"
     url: "https://github.com/KiranKatamneni/Anime_Recommendation_MLOps"
 
   - title: "Generative AI"
     category: "Generative AI"
-    image: "https://imgur.com/2nNXhDN.png"
+    image: "https://imgur.com/AI.jpg"
     url: "https://github.com/KiranKatamneni/Gen-AI"
 
   - title: "Customer-Churn-Prediction"
     category: "Data Science"
-    image: "https://imgur.com/7110Lj1.png"
+    image: "https://imgur.com/churn.png"
     url: "https://github.com/KiranKatamneni/Customer-Churn-Prediction"
 
   - title: "Sales-Dasboard-Power-BI"
     category: "PowerBI Dashboard"
-    image: "https://imgur.com/t5T5Ixa.png"
+    image: "https://imgur.com/Sales.png"
     url: "https://github.com/KiranKatamneni/Sales-Dasboard-Power-BI"
 
   - title: "Financial-Market-Forecasting"
     category: "Data Science"
-    image: "https://imgur.com/kyHrBGk.png"
+    image: "https://imgur.com/forecasting.jpeg"
     url: "https://github.com/KiranKatamneni/Financial-Market-Forecasting"
 
   - title: "AI Story Teller"
     category: "Generative AI"
-    image: "config/assets/projects/project-1.jpg"
+    image: "config/assets/projects/Storyy_teller.png"
     url: "https://github.com/KiranKatamneni/Capstone"
 
   - title: "Restaurant Data Analysis"
@@ -39,10 +39,10 @@ PROJECTS:
 
   - title: "Netflix Dashboard"
     category: "Data Visualization"
-    image: "config/assets/projects/project-3.jpg"
+    image: "config/assets/projects/Netflix.png"
     url: "https://public.tableau.com/app/profile/katamneni.kiran.kumar/viz/Netflix_16844275441000/Dashboard1"
 
   - title: "Walmart Retail Data Analysis"
     category: "Data Visualization"
-    image: "config/assets/projects/project-4.png"
+    image: "config/assets/projects/Walmart-Logo.jpg"
     url: "https://public.tableau.com/app/profile/katamneni.kiran.kumar/viz/Walmart_16444143836870/Dashboard1"
