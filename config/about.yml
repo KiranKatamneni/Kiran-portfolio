@@ -66,7 +66,7 @@ TECHNOLOGIES:
     - title: "Docker"
       icon: "config/assets/icons/docker.svg"
     - title: "Kubernetes"
-      icon: "config/assets/icons/Kubernetes.svg"
+      icon: "config/assets/icons/kubernetes.png"
     - title: "Power BI"
       icon: "config/assets/icons/p.svg"
     - title: "Snowflake"
