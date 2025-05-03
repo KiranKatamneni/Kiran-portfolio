@@ -23,19 +23,14 @@ EXPERIENCE:
     - period: "Aug 2021 — Dec 2022"
       position: "Data Scientist – LTIMindtree"
       description: >
-        Led the development of AI-driven tools for data analysis and validation using Python and SQL, improving data quality and preprocessing efficiency by 90% in healthcare projects. 
-        Built predictive models with Scikit-learn, Spark, and advanced ML algorithms, boosting accuracy by 18%. 
-        Architected scalable AI solutions using Python, Streamlit, and Tableau, reducing analysis time by 80% and enhancing governance. 
-        Deployed ML and deep learning models on GCP for real-time Generative AI integration, cutting deployment time by 25%. 
-        Applied GANs and transformer models for synthetic data generation and anomaly detection, improving model generalization, reliability, and training on sparse datasets.
+       Built scalable AI tools using Python, SQL, and GCP, improving data quality by 90% and cutting deployment time by 25%. 
+       Developed ML models with Spark and GANs for anomaly detection, synthetic data generation, and automation, enhancing model accuracy and reliability.
     - period: "May 2020 — Jul 2021"
       position: "Junior Data Scientist – LTIMindtree"
       description: >
-        Applied a wide range of machine learning algorithms—including linear regression, random forest, SVMs, clustering, CNNs, RNNs, and transformers—to solve complex AI and Generative AI challenges across diverse datasets. 
-        Delivered end-to-end ML models with Scikit-learn, achieving 92% accuracy in customer churn prediction. 
-        Enhanced decision-making through Power BI dashboards and Python-SQL pipelines for real-time KPI tracking. 
-        Used NLP tools like NLTK to reduce text data dimensionality, and engineered synthetic data with GANs to address class imbalance. 
-        Optimized SQL Server for high-throughput ingestion, and collaborated with cross-functional teams to support AI-driven solutions for Fortune 500 clients.
+        Deployed ML models using Scikit-learn and transformers, achieving 92% churn prediction accuracy. 
+        Enhanced insights with Power BI dashboards and Python-SQL pipelines. 
+        Applied GANs, NLP, and deep learning (CNNs/RNNs) to tackle class imbalance, improve pattern recognition, and support enterprise AI solutions.
 
 LANGUAGES:
   enabled: false
