@@ -21,12 +21,12 @@ EXPERIENCE:
         Created Power BI dashboards integrated with AWS Redshift for KPI tracking. 
         Delivered scalable AI solutions across the full pipeline, including deep learning, GAN-based data augmentation, and cloud deployment.
     - period: "Aug 2021 — Dec 2022"
-      position: "Data Scientist – LTIMindtree"
+      position: "Data Scientist – LTI Mindtree"
       description: >
        Built scalable AI tools using Python, SQL, and GCP, improving data quality by 90% and cutting deployment time by 25%. 
        Developed ML models with Spark and GANs for anomaly detection, synthetic data generation, and automation, enhancing model accuracy and reliability.
     - period: "May 2020 — Jul 2021"
-      position: "Junior Data Scientist – LTIMindtree"
+      position: "Data Science Consultant – LTI Mindtree"
       description: >
         Deployed ML models using Scikit-learn and transformers, achieving 92% churn prediction accuracy. 
         Enhanced insights with Power BI dashboards and Python-SQL pipelines. 
@@ -50,7 +50,7 @@ SKILLS:
      - skill: "Language and Tools: Python, R, SQL, Spark, Vertex AI, Generative AI"
      - skill: "IDEs: Visual Studio Code, Jupyter Notebook, PyCharm"
      - skill: "ML Algorithms: Linear Regression, Logistic Regression, Decision Trees, Random Forests, XGBoost, SVM, K-Means, Naive Bayes, PCA"
-     - skill: "Deep Learning: CNN, RNN, LSTM, Transformers (BERT, GPT, T5, LLAMA), Hugging Face, Stable Diffusion, Generative AI (GenAI), OpenCV"
+     - skill: "Deep Learning: CNN, RNN, LSTM, Transformers (BERT, GPT, T5, LLAMA), Hugging Face, Stable Diffusion, Generative AI (GenAI), OpenCV, LangChain"
      - skill: "Packages: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, Seaborn, Matplotlib, Plotly, SciPy, MLflow, NLTK, spaCy"
      - skill: "Cloud Technology: AWS (EC2, S3, Lambda, SageMaker, EMR, DynamoDB), GCP (BigQuery, Vertex AI)"
      - skill: "Big Data & Data Engineering: Apache Spark, Databricks, Snowflake, Airflow"
